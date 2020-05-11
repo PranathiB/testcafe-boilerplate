@@ -1,0 +1,14 @@
+{
+  "name": "testcafe-boilerplate",
+  "version": "1.0.0",
+  "description": "Sample project to get started with testcafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome"
+  },
+  "author": "PranathiB",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.8.4"
+  }
+}
